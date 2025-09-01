@@ -45,6 +45,8 @@ A complete Web3 application featuring Vara Fungible Token (VFT) smart contracts 
 
 ### Frontend Setup
 ```bash
+git clone https://github.com/Adityaakr/Vara-VFT-Full-Stack-dApp.git
+cd Vara-VFT-Full-Stack-dApp
 yarn install
 yarn start
 ```
