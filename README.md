@@ -1,5 +1,3 @@
-# Vara VFT Full-Stack dApp
-
 A complete Web3 application featuring Vara Fungible Token (VFT) smart contracts and a React frontend. This full-stack dApp provides comprehensive token management functionality on the Vara blockchain.
 
 ## 🏗️ Project Structure
@@ -42,13 +40,11 @@ A complete Web3 application featuring Vara Fungible Token (VFT) smart contracts 
 - **Blockchain**: Vara Network
 - **Styling**: SCSS Modules
 - **State Management**: React Hooks
-- **Wallet**: Polkadot Extension Integration
 
 ## 🚀 Installation & Setup
 
 ### Frontend Setup
 ```bash
-cd dApp
 yarn install
 yarn start
 ```
