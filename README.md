@@ -1,4 +1,4 @@
-# VFT dApp
+# Vara Full-stack VFT dApp
 
 A Vara Fungible Token (VFT) decentralized application built on the Vara blockchain. This dApp provides a complete interface for interacting with VFT smart contracts including minting, burning, transferring tokens, and checking balances.
 
@@ -17,13 +17,12 @@ A Vara Fungible Token (VFT) decentralized application built on the Vara blockcha
 - **Blockchain**: Vara Network
 - **Styling**: SCSS Modules
 - **State Management**: React Hooks
-- **Wallet**: Polkadot Extension Integration
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/Adityaakr/vft-dapp.git
+https://github.com/Adityaakr/vara-full-stack-dapp.git
 cd vft-dapp
 
 # Install dependencies
