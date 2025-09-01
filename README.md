@@ -22,8 +22,8 @@ A Vara Fungible Token (VFT) decentralized application built on the Vara blockcha
 
 ```bash
 # Clone the repository
-https://github.com/Adityaakr/vara-full-stack-dapp.git
-cd vft-dapp
+https://github.com/Adityaakr/Vara-VFT-Full-Stack-dApp.git
+cd Vara-VFT-Full-Stack-dApp
 
 # Install dependencies
 yarn install
