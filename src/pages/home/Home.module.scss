@@ -1,0 +1,39 @@
+.container {
+  padding: 2rem;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.metaList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.loading {
+  font-style: italic;
+}
+
+.actions {
+  margin-top: 2rem;
+  display: grid;
+  gap: 2rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.balance {
+  margin-top: 1rem;
+  font-weight: bold;
+}
